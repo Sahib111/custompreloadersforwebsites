@@ -1,4 +1,4 @@
-import url('https://cdnjs.cloudflare.com/ajax/libs/jquery/2.2.2/jquery.min.js');
+
 $(document).ready(function() {
 //Preloader
 preloaderFadeOutTime = 1000;
