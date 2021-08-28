@@ -1,4 +1,4 @@
-import url("https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js")
+import url("https://ajax.googleapis.com/ajax/libs/jquery/3.6.0/jquery.min.js");
 $(document).ready(function() {
 //Preloader
 preloaderFadeOutTime = 6000;
