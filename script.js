@@ -4,5 +4,5 @@ function showPage() {document.body.classList.remove('js-loading');
 }
 
 $(window).load(function() { 
-$('.preloader').fadeOut("slow");
+$(".preloader").fadeOut("slow");
 };
