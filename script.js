@@ -1,3 +1,3 @@
 $(window).load(function() { 
-$(".preloader").fadeOut(10000);
+$(".preloader").fadeOut(5000);
 });
